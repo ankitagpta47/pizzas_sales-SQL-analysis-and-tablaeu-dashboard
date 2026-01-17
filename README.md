@@ -22,4 +22,4 @@ The project demonstrates **end-to-end data analyst skills**:
 ---
 📌 Note: Tableau (.twbx) and Word (.docx) files must be downloaded and opened locally. GitHub does not preview these file types.
 
-## 📂 Project Files
+
